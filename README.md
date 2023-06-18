@@ -31,7 +31,7 @@ The aim of this workflow is to use **LC-MS Spectra Processing module** in [Metab
 
 (Optionally) To practice raw spectral data conversion and centroiding, users could download some raw thermo-fisher spectral data (*.raw) from this [link](https://drive.google.com/file/d/17HwDYqISi60bSUEAghQYSzikkuw89n-9/view?usp=sharing).
 
-For this workflow, users could use the 2nd example directly from the module page or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
+For this workflow, users could use the 2nd example directly from the module page or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0). *For the learning purpose, you are strongly encouraged to use the 1st example directly to run the whole process quickly.*
 
 The tutorial of this module is available [here](https://www.xialab.ca/api/download/metaboanalyst/1_Raw_Spectral_Processing.pdf) for further reference. Watch this [video](https://youtu.be/NSwc7Ywvbpw) to see a live demo of raw spectra data processing with MetaboAnalyst.
 
