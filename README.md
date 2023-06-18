@@ -33,7 +33,7 @@ The aim of this workflow is to use **LC-MS Spectra Processing module** in [Metab
 
 For this workflow, users could use the 2nd example directly from the module page or optionally download [here](https://www.dropbox.com/s/ift0zrkh0rx3v80/malaria_raw.zip?dl=0).
 
-The tutorial of this module is available [here](https://dev.metaboanalyst.ca/resources/data/1_Raw%20Spectral%20Processing.pdf) for further reference. Watch this [video](https://youtu.be/NSwc7Ywvbpw) to see a live demo of raw spectra data processing with MetaboAnalyst.
+The tutorial of this module is available [here](https://www.xialab.ca/api/download/metaboanalyst/1_Raw_Spectral_Processing.pdf) for further reference. Watch this [video](https://youtu.be/NSwc7Ywvbpw) to see a live demo of raw spectra data processing with MetaboAnalyst.
 
 <br/>
 
