@@ -2,7 +2,10 @@
 
 ![alt text](https://github.com/xia-lab/Metabolomics2019/blob/master/metabolomics2022_xialab.png)
 
-For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spectra processing and peak annotation, 2) functional analysis and integration with other omics data, and 3) exploratory statistical analysis with complex metadata. Details for each workflow are below. 
+For this tutorial, we will be covering three workflows: 
+* 1) Optimized LC-MS spectra processing and peak annotation;
+* 2) functional analysis and integration with other omics data, and 
+* 3) exploratory statistical analysis with complex metadata. Details for each workflow are below. 
 
 ### <ins>Before you start, please download our latest Protocols for MetaboAnalyst 5.0 [here](https://www.nature.com/articles/s41596-022-00710-w).</ins>
 
@@ -12,6 +15,7 @@ For this tutorial, we will be covering three workflows: 1) Optimized LC-MS spect
 
 - [Introduction and Key Concepts](https://github.com/xia-lab/Metabolomics2019/blob/master/Metabolomics_Stats_Intro_2022.pdf).
 - [Raw Spectra Processing and Functional Analysis](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section1_raw_spectra_functional_analysis.pdf).
+https://github.com/xia-lab/Metabolomics_2023/blob/main/section_1_LCMS_processing.pdf
 - [Functional Integration of Multi-Omics Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section2_function_multiomics.pdf).
 - [Covariate Adjustment based on Meta-Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section3_complex_metadata.pdf).
 
