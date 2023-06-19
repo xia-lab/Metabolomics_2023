@@ -39,7 +39,7 @@ The tutorial of this module is available [here](https://www.xialab.ca/api/downlo
 
 ## 2) Statistical Analysis of One-factor experimental design
 
-This part needs to be updated by Jessica. <- TODO!
+The aim of this workflow is the use the **Statistical Analysis [One Factor] module** in [MetaboAnalyst](https://www.metaboanalyst.ca/) to analyze a concentration table with a simple experimental design. By simple experimental design, we mean a dataset with a single, categorical metadata (ie. Treatment: Control, Drug A, Drug B). This section includes outlier and batch effect detection, missing value imputation, filtering, normalization, transformation, and statistical analysis. Then we will show a quick demo with **Example Data 3** to show how the pipeline works. 
 
 
 
