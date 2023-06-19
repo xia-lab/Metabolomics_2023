@@ -47,14 +47,8 @@ This part needs to be updated by Jessica. <- TODO!
 
 ## 3) Functional Analysis and Integration 
 
-This part needs to be updated by Yao. <- TODO!
-
-The aim of this workflow is to perform functional integration .
-
-The first example is from a study of COVID-19 [Ariel et al](https://doi.org/10.1016/j.cels.2020.10.003). The data consists of Illumina RNA-Seq + targeted metabolomic analysis (GC-MS) of metabolome samples. The second example is from a study on clinical tolerance on infection of P. vivax between patients (Semi-immune vs. Naïve) from [Li et al](https://doi.org/10.1016/j.redox.2018.04.011).
-
-
-The video demo for Functional analysis module is available [here](https://youtu.be/LQ8Imra3DgQ).
+The aim of this workflow is to introduce the pathway analysis of untargeted metabolomics data using the **Functional Analysis module**. The theory and processing steps of mummichog is described. Users can use the first examples directly from the module page for practicing. 
+The tutorial of this module is available [here]([https://www.xialab.ca/api/download/metaboanalyst/2_Functional_Analysis.pdf]) for further reference. Watch this [video](https://youtu.be/NSwc7Ywvbpw) to see a live demo of functional analysis with MetaboAnalyst.
 
 <br/>
 
