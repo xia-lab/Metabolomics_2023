@@ -18,7 +18,7 @@ Details for each workflow are below.
 
 - [Introduction and Key Concepts](https://github.com/xia-lab/Metabolomics_2023/blob/main/intro.pdf).
 - [Metabolomics Raw Spectra Data and Processing](https://github.com/xia-lab/Metabolomics_2023/blob/main/section_1_LCMS_processing.pdf).
-- [Metabolomics Statistical Analysis of One-factor experimental design](https://github.com/xia-lab/Metabolomics_2023/blob/main/section_3_functional_analysis.pdf).
+- [Metabolomics Statistical Analysis of One-factor experimental design](https://github.com/xia-lab/Metabolomics_2023/blob/main/section_2_basic_stats.pdf).
 
 - [Functional analysis from LC-MS peaks](https://github.com/xia-lab/Metabolomics_2023/blob/main/section_3_functional_analysis.pdf).
 - [Statistical Analysis with Complex Meta-Data](https://github.com/xia-lab/Metabolomics2019/blob/master/2022_section3_complex_metadata.pdf).
