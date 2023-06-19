@@ -54,9 +54,7 @@ The tutorial of this module is available [here]([https://www.xialab.ca/api/downl
 
 ## 4) Metabolomics Statistical Analysis with Complex Metadata
 
-The aim of this workflow is to perform statistical analysis based on complex metadata. Covariate analysis will be used to deal with a metabolomics data, which is highly affected by multiple metadata factors. This study mainly focus on a peak intensity table from a trichloroethylene (TCE) exposure [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100622/) for covariate analysis. The data consists of untargeted metabolomics (a peak table) of 352 known metabolites and a metadata. In details, untargeted metabolomics (LC-MS peak intensity) data from plasma samples of 175 individuals to study trichloroethylene (TCE) exposure has been included. Nine metadata - 6 categorical and 3 numeric was organized for analysis.
-
-For this workflow, users will first need to download the example data [here](https://github.com/xia-lab/Metabolomics2019/blob/master/Statistical_analysis_metadata.zip).
+The aim of this workflow is to perform statistical analysis based on complex metadata. Covariate analysis will be used to deal with a metabolomics data, which is highly affected by multiple metadata factors. This study mainly focus on a peak intensity table from a COVID-19 study (**Example Data 1**) for covariate analysis. The data consists of untargeted metabolomics (a peak table) of 2054 metabolites and a metadata table. The data are from 59 individuals (20 healthy, 39 with COVID-19), and there are metadata values for age, sex, diagnosis, and treatment. 
 
 <br/>
 
